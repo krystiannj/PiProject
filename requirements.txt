@@ -1,0 +1,4 @@
+flask
+colorama
+psutil
+psycopg2-binary
